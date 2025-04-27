@@ -1,12 +1,14 @@
 import numpy as np
 
+# Karyll Anne Zamora Birondo, 2023-4-0652
+
 # I. Creating Matrices
-print("Initials: KAB -> [11, 1, 2] \nSecond letters of names: AA1 -> [1, 1, 9]")
+print("Initials: KZB -> [11, 26, 2] \nSecond letters of names: AAI -> [1, 1, 9]")
 
 # 1.a.i. 1st Matrix 
-# Initials KAB: K=11, A=1, B=2
+# Chosen Initials KZB: K=11, A=26, B=2
 # Second letters of names AAI: A=1, A=1, I=9
-matrix1 = np.array([[11, 1, 2], [1, 1, 9]])
+matrix1 = np.array([[11, 26, 2], [1, 1, 9]])
 
 matrix2 = np.array([[2, 0, 2], [6, 5, 2]])
 
